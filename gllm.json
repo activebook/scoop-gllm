@@ -1,0 +1,22 @@
+{
+    "version": "1.12.16",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/activebook/gllm/releases/download/v1.12.16/gllm_Windows_x86_64.zip",
+            "bin": [
+                "gllm.exe"
+            ],
+            "hash": "c21d6731375e49a9bd7fad2421d3ff49fa3f6e3f22c3276a42b9524ea0e37a3b"
+        },
+        "arm64": {
+            "url": "https://github.com/activebook/gllm/releases/download/v1.12.16/gllm_Windows_arm64.zip",
+            "bin": [
+                "gllm.exe"
+            ],
+            "hash": "5cd28da2af9f75c8b4703c6c07b85db3bfea619c60fa3c61d83f44edff743765"
+        }
+    },
+    "homepage": "https://github.com/activebook/gllm",
+    "license": "Apache-2.0",
+    "description": "`gllm` is a powerful command-line tool designed to interact seamlessly with various Large Language Models (LLMs)."
+}
