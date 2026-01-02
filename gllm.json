@@ -1,19 +1,19 @@
 {
-    "version": "1.13.4",
+    "version": "1.13.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/activebook/gllm/releases/download/v1.13.4/gllm_Windows_x86_64.zip",
+            "url": "https://github.com/activebook/gllm/releases/download/v1.13.5/gllm_Windows_x86_64.zip",
             "bin": [
                 "gllm.exe"
             ],
-            "hash": "756bf3eb255f9a5387be425ab0def1d6a3050a64ce3c6cdea16aa0bcec39c56a"
+            "hash": "3d99eef997d861c161c1d5321dac41c97642d97acd014b16648efb01eab8a127"
         },
         "arm64": {
-            "url": "https://github.com/activebook/gllm/releases/download/v1.13.4/gllm_Windows_arm64.zip",
+            "url": "https://github.com/activebook/gllm/releases/download/v1.13.5/gllm_Windows_arm64.zip",
             "bin": [
                 "gllm.exe"
             ],
-            "hash": "499615e2606d99d3f41053163e9c6c855b4024b652b8d0446e7cf45937e39e5f"
+            "hash": "d8d2074de107d7206044aac602e077dd1a358ae6fc46e3a853a2c4e3bb891be2"
         }
     },
     "homepage": "https://github.com/activebook/gllm",
